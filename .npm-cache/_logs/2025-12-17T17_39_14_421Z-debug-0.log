@@ -1,0 +1,19 @@
+0 verbose cli /Users/andrewzhang/.nvm/versions/node/v22.14.0/bin/node /Users/andrewzhang/.nvm/versions/node/v22.14.0/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.14.0
+3 silly config load:file:/Users/andrewzhang/.nvm/versions/node/v22.14.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/andrewzhang/Github/phenomenological-art-gallery/.npmrc
+5 silly config load:file:/Users/andrewzhang/.npmrc
+6 silly config load:file:/Users/andrewzhang/.nvm/versions/node/v22.14.0/etc/npmrc
+7 verbose title npm create svelte@latest apps/web --yes
+8 verbose argv "create" "svelte@latest" "apps/web" "--" "--yes"
+9 verbose logfile logs-max:10 dir:/Users/andrewzhang/Github/phenomenological-art-gallery/.npm-cache/_logs/2025-12-17T17_39_14_421Z-
+10 verbose logfile /Users/andrewzhang/Github/phenomenological-art-gallery/.npm-cache/_logs/2025-12-17T17_39_14_421Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /Users/andrewzhang/Github/phenomenological-art-gallery
+13 verbose os Darwin 23.6.0
+14 verbose node v22.14.0
+15 verbose npm  v10.9.2
+16 verbose exit 1
+17 verbose code 1
+18 error A complete log of this run can be found in: /Users/andrewzhang/Github/phenomenological-art-gallery/.npm-cache/_logs/2025-12-17T17_39_14_421Z-debug-0.log
